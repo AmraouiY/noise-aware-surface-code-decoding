@@ -10,9 +10,5 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# Data and figures
-/data/
-/figures/
-
 # VS Code
 .vscode/
